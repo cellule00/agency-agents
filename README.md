@@ -202,6 +202,7 @@ The backbone of the operation.
 
 | Agent | Specialty | When to Use |
 |-------|-----------|-------------|
+| 👋 [Greeter](support/support-greeter.md) | Multilingual greetings, onboarding welcomes, cultural introductions | First impressions, user onboarding, multilingual welcome experiences |
 | 💬 [Support Responder](support/support-support-responder.md) | Customer service, issue resolution | Customer support, user experience, support operations |
 | 📊 [Analytics Reporter](support/support-analytics-reporter.md) | Data analysis, dashboards, insights | Business intelligence, KPI tracking, data visualization |
 | 💰 [Finance Tracker](support/support-finance-tracker.md) | Financial planning, budget management | Financial analysis, cash flow, business performance |
